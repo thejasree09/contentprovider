@@ -25,7 +25,7 @@ Step 6: Get contacts details and Display details give in MainActivity file.
 
 Step 7: Save and run the application.
 
-## PROGRAM:
+
 ```
 /*
 Program to print the contact name and phone number using content providers.
@@ -33,6 +33,8 @@ Developed by: SWETHA A
 Registeration Number : 212223220114
 */
 ```
+
+## PROGRAM:
 
 
 activity_main.xml
