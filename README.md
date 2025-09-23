@@ -1,4 +1,3 @@
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0cb95693-ecfd-4997-bd12-09bd0aa0fb10" />
 # Ex.No:5 Create Your Own Content Providers to get Contacts details.
 
 
